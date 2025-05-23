@@ -10,7 +10,7 @@ y por último American.
 Por otro lado,  al considerar el menor número de ventas por artículo, 
 Fue Chicken Tacos, continuando con Poststickers, Cheese Lasagna, Steak Tacos, 
  y Cheese Quesadillas, siendo los 5 artículos menos vendidos, lo cual podría sugerir la necesidad de revisar o renovar estos platillos en el nuevo menú.
-Finalmente se logra observar el día con mayor venta que fue 
+Finalmente se logra observar el día con mayor ingresos que fue 
 el '2023-02-01', continuando con el '2023-03-17',
-el '2023-03-13',el '2023-01-08', el '2023-02-27'.
-Siendo las 5 fechas con mayor venta. 
+el '2023-01-08',el '2023-03-13', el '2023-02-27'.
+Siendo las 5 fechas con mayor ingreso. 
