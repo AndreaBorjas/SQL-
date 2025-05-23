@@ -1,5 +1,5 @@
 # SQL-Puntos Clave. 
-Al analizar los datos del restaurante "Sabores del Mundo",Se logra observar que los artículos más vendidos del menú son comenzando con el más vendido: 
+Al analizar los datos del restaurante "Sabores del Mundo", Se logra observar que los artículos más vendidos del menú son comenzando con el más vendido: 
 Hamburger, continuando con Edamame, Korean Beef Bowl, Cheeseburger y French Fries.
 Aunado a que en el total de ingresos generados por artículo
 El artículo que más genera ingresos es Korean Beef Bowl, Spaghetti & Meatballs,
